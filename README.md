@@ -1,2 +1,2 @@
-# DMM_practice_file_index
+# DMM_practice_file
 DMMWEBCAMPで学んだカリキュラムを保存するリポジトリ
